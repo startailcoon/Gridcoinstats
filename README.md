@@ -13,7 +13,8 @@ Feature requests can be submitted as an open issue on this GitHub repository.
 ## Work order
 - Critical Bugs
 - Bugs
+- Enhancements
 - Features
-- Proposed Features
+- Next Iteration
 
 Updates to work will be submitted periodically.
