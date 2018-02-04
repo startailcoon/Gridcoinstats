@@ -1,7 +1,7 @@
 # Gridcoinstats Issues Tracker Repository
 This repository is available to the users of Gridcoinstats.eu for Issues and Feature submissions.
 
-# PLESAE DO NOT SUBMIT VULNERABILITIES
+# PLEASE DO NOT SUBMIT VULNERABILITIES
 Issues that are critical to sever security or any related topic should NOT be submitted as an open ticket but rather submitted directly to the administrator for tracking a solution.
 
 ## Submitting an Issue
